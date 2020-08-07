@@ -2,4 +2,4 @@
 
 a node.js sample app for knative
 
-build: 2
+build: 3
